@@ -460,3 +460,8 @@ textarea.form-input {
     margin: auto;
   }
 }
+@media (min-width: 992px){
+  .col-lg-3{
+    height: 380px;
+  }
+  }
